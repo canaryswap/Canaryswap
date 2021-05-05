@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+CanarySwap is an incredibly promising project, goal achieving success on the Binance Smart Chain. Our aim is to maximize your investment with yield farming mechanism that provides sustainable and profitable yields combined with transparent security features.
 <!--
 **canaryswap/Canaryswap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
